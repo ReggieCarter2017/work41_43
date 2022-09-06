@@ -1,19 +1,19 @@
-﻿Console.WriteLine("Сколько чисел вы хотите ввести? ");
+﻿/* Console.WriteLine("Сколько чисел вы хотите ввести? ");
 int.TryParse(Console.ReadLine(), out int count);
-int CountingPositiveIntegers(int c)
+*/
+int CountingPositiveIntegers(int a)
 {
-    Console.WriteLine("Введите ваши числа: ");
     int howManyTimes = 0;
-    int i = 0;
-    while (i < c)
+    bool stop = true;
+    while (stop)
     {
+        Console.WriteLine("Введите ваше число: ");
         int.TryParse(Console.ReadLine(), out var numFromUser);
-        if (numFromUser > 0)
-        {
-            howManyTimes++;
-        }
-        i++;
+        if (numFromUser != a && numFromUser > 0) howManyTimes++;
+        else if (numFromUser == a) stop = false;
     }
     return howManyTimes;
 }
-Console.WriteLine($"Всего положительных чисел: {CountingPositiveIntegers(count)}");
+int stop1 = 999;
+Console.WriteLine("Введите в терминал '" + stop1 + "' для прекращения ввода чисел");
+Console.Write($" Положительных чисел: {CountingPositiveIntegers(stop1)}.");

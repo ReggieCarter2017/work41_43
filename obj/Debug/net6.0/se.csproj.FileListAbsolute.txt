@@ -1,0 +1,15 @@
+C:\Users\coolp\Desktop\C\se\bin\Debug\net6.0\se.exe
+C:\Users\coolp\Desktop\C\se\bin\Debug\net6.0\se.deps.json
+C:\Users\coolp\Desktop\C\se\bin\Debug\net6.0\se.runtimeconfig.json
+C:\Users\coolp\Desktop\C\se\bin\Debug\net6.0\se.dll
+C:\Users\coolp\Desktop\C\se\bin\Debug\net6.0\se.pdb
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.csproj.AssemblyReference.cache
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.AssemblyInfoInputs.cache
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.AssemblyInfo.cs
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.csproj.CoreCompileInputs.cache
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.dll
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\refint\se.dll
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.pdb
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\se.genruntimeconfig.cache
+C:\Users\coolp\Desktop\C\se\obj\Debug\net6.0\ref\se.dll
